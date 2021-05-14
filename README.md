@@ -4,10 +4,10 @@ per problemi con i token
 lo script funziona solo per la compagnia di telecomunicazioni italiana
 # SISTEMA BAN ITA
 # CREADOR : S3NS3IX03
-# COMMAND: 
+# COMMAND : 
 
-$ git clone https://github.com/S3NS3IX03/S3NS3I-BAN.git
+$ git clone https://github.com/S3NS3IX03/S3NS3I-BAN-.git
 
-$ cd S3NS3I-BAN
+$ cd S3NS3I-BAN-
 
 $ bash BANEO.sh
